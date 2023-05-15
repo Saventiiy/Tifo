@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tifo</string>
+    <string name="github_fetcher">Github fetcher</string>
+    <string name="branches">Branches</string>
+    <string name="contributors">Contributors</string>
+    <string name="there_is_no_branches">There is no branches</string>
+    <string name="there_is_no_contributors">There is no contributors</string>
+</resources>
